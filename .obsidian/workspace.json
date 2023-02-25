@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "26fdf9ea4f74b89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a4680445d71d6b68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b46cc54e68b2ee4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DBMS/DBMS-Notes/Lecture-1.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d920da8f4e67c64c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f8d72532512b4ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71e8a0ead85061d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a4bbc693ad173d10",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79b440a32e52e8a0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "right": {
+    "id": "7d0af36ae4a5ca0f",
+    "type": "split",
+    "children": [
+      {
+        "id": "95a0f66f41d9070e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b4c5df9f8f9039",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DBMS/DBMS-Notes/Lecture-1.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73ffe24bc8f2c88c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "948a0e37456e251d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DBMS/DBMS-Notes/Lecture-1.md"
+              }
+            }
+          },
+          {
+            "id": "3a319bdc7c418eb2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "22611438b1d87c20",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 319.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "22611438b1d87c20",
+  "lastOpenFiles": [
+    "DBMS/DBMS System..md",
+    "DBMS/DBMS-Canvas.canvas",
+    "DBMS/Draw.md",
+    "AWS/Notes.md",
+    "index.md",
+    "Scratch Pad/Scratch Pad.md",
+    "DBMS.md",
+    "DBMS/DBMS-Notes/Lecture-3.md",
+    "AWS/Static Site Generators/Gatsby.md",
+    "AWS/Kubernetes.md",
+    "DBMS/DBMS-Notes/Lecture-4.md",
+    "DBMS/DBMS-Notes/Lecture-2.md",
+    "DBMS/DBMS-Notes/Lecture-1.md",
+    "DBMS/DBMS-Notes",
+    "Untitled",
+    "DBMS",
+    "AWS/YAML.md",
+    "AWS/Web Server.md",
+    "AWS/Security.md",
+    "AWS/Networking.md",
+    "AWS/Local Cluster Setup.md",
+    "AWS/MongoDB & Mongo Express Project.md",
+    "AWS/Linux.md",
+    "AWS/Kubernetes Config File.md",
+    "AWS/Kubectl.md",
+    "AWS/Ingress.md",
+    "AWS/Helm Package Manager.md",
+    "AWS/Database.md",
+    "AWS/Data Storage.md",
+    "Scratch Pad/Main-Canvas.canvas"
+  ]
+}

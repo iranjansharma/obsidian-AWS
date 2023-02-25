@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"1f9902993f6c81e6","x":-1040,"y":0,"width":400,"height":400,"color":"1","type":"file","file":"DBMS/DBMS-Notes/Lecture-1.md"},
+		{"id":"deee1dd491960673","x":-560,"y":0,"width":400,"height":400,"color":"5","type":"file","file":"DBMS/DBMS-Notes/Lecture-2.md"},
+		{"id":"94b963c6d0df0c32","x":-80,"y":0,"width":400,"height":400,"color":"6","type":"file","file":"DBMS/DBMS-Notes/Lecture-3.md"},
+		{"id":"509fafd068b57967","x":400,"y":0,"width":400,"height":400,"color":"3","type":"file","file":"DBMS/DBMS-Notes/Lecture-4.md"},
+		{"id":"502da897b079f304","x":-200,"y":-480,"width":160,"height":60,"color":"2","type":"text","text":"  DBMS System"}
+	],
+	"edges":[
+		{"id":"7daa6039dec1e5a0","fromNode":"502da897b079f304","fromSide":"bottom","toNode":"1f9902993f6c81e6","toSide":"top"},
+		{"id":"fc390f1d8a5422fa","fromNode":"502da897b079f304","fromSide":"bottom","toNode":"deee1dd491960673","toSide":"top"},
+		{"id":"d479331d824e8dd5","fromNode":"502da897b079f304","fromSide":"bottom","toNode":"94b963c6d0df0c32","toSide":"top"},
+		{"id":"4b091ba980a95491","fromNode":"502da897b079f304","fromSide":"bottom","toNode":"509fafd068b57967","toSide":"top"}
+	]
+}
