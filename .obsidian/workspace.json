@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DBMS/DBMS-Notes/Lecture-1.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/DBMS-Notes/Lecture-1.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/DBMS-Notes/Lecture-1.md"
+                "file": "index.md"
               }
             }
           },
@@ -155,8 +155,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22611438b1d87c20",
+  "active": "b46cc54e68b2ee4d",
   "lastOpenFiles": [
+    "DBMS/DBMS-Notes/Lecture-1.md",
     "DBMS/DBMS System..md",
     "DBMS/DBMS-Canvas.canvas",
     "DBMS/Draw.md",
@@ -169,7 +170,6 @@
     "AWS/Kubernetes.md",
     "DBMS/DBMS-Notes/Lecture-4.md",
     "DBMS/DBMS-Notes/Lecture-2.md",
-    "DBMS/DBMS-Notes/Lecture-1.md",
     "DBMS/DBMS-Notes",
     "Untitled",
     "DBMS",
